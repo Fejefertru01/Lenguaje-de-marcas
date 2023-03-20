@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tienda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./tienda.xsd">
+<producto productoID="1">
+<nombre>El señor de los anillos</nombre>
+<marca>SM</marca>
+<precio>15.50</precio>
+<edadRecomendada>+13</edadRecomendada>
+<categoria>comic</categoria>
+<categoria>manga</categoria>
+<descuento>15</descuento>
+</producto>
+<producto productoID="2">
+    <nombre>Harry Potter</nombre>
+    <marca>Barco de Vapor</marca>
+    <precio>25.00</precio>
+    <edadRecomendada>+13</edadRecomendada>
+    <categoria>juego de mesa</categoria>
+    <descuento>10</descuento>
+</producto>
+<producto productoID="1">
+    <nombre>Piratas del caribe</nombre>
+    <marca>Planeta</marca>
+    <precio>7.99</precio>
+    <pegi>PEGI 13</pegi>
+    <categoria>comic</categoria>
+    <descuento>50</descuento>
+    </producto>
+</tienda>
